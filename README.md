@@ -1,3 +1,3 @@
-# kitsunebi-rules
-以神機（diveng.io）所提供的規則為基礎，加入港台常見被封的網站，並加入 Whatsapp 支援。
-原Github為：https://github.com/ConnersHua/Profiles
+# gfw-rules
+以 Shadowrocket-ADBlock-Rules (https://github.com/h2y/Shadowrocket-ADBlock-Rules) 為基礎，再加入神機（https://diveng.io）所提供的規則，並加入一些額外的網站
+神機原Github為：https://github.com/ConnersHua/Profiles
